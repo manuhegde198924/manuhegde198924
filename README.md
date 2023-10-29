@@ -32,3 +32,8 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 
 </div>
+- 🔭 I’m currently working on ..Lots of ProGrammiNg StuFFs
+- 🌱 I’m currently learning ....datastructures javascript[REaCT & NoDE.JS]
+- 🤔 I’m looking for help with ...FRont-End Back end TechNolgies And FreeLancinG
+- 💬 Ask me about ...Cool CompUter NetworKing Basics
+
