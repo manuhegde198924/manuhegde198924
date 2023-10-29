@@ -39,5 +39,5 @@ Here are some ideas to get you started:
 
 ---
 
-### :fire: My Stats :
+
 
