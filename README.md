@@ -37,3 +37,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...FRont-End Back end TechNolgies And FreeLancinG
 - 💬 Ask me about ...Cool CompUter NetworKing Basics
 
+---
+
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
