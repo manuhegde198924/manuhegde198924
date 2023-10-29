@@ -1,4 +1,4 @@
-### Hi there 👋WeB ghost A.K.A --MANU here
+### Hi there 👋WeB Ghost A.K.A --manu here
 
 <!--
 **manuhegde198924/manuhegde198924** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
