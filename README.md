@@ -1,4 +1,4 @@
-### Hi there 👋WeB Ghost A.K.A --manu here,A Computer science Graduate with Interests in Cyber Security,Ai,Ml and  next gen Web Apps and other cool stuffs 
+### Hi there 👋WeB Ghost A.K.A --ಮನೋಜ್ here,A Computer science Graduate with Interests in Cyber Security,Ai,Ml and  next gen Web Apps and other cool stuffs 
 
 <!--
 **manuhegde198924/manuhegde198924** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
